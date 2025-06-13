@@ -1,0 +1,43 @@
+Especie,Día pedido,Proveedor,Cantidad,Costo compra,Costo transporte
+Lechugilla,0,Laguna seca,2478.0,64428.0,4500
+Maguey Verde Salmiana,0,Laguna seca,1522.0,39572.0,0
+Maguey Verde Salmiana,4,Laguna seca,1070.0,27820.0,4500
+Maguey Verde Salmiana,5,Laguna seca,1605.0,41730.0,4500
+Maguey Verde Salmiana,6,Laguna seca,1605.0,41730.0,4500
+Maguey Verde Salmiana,7,Laguna seca,1526.0,39676.0,4500
+Maguey Verde Salmiana,8,Laguna seca,1070.0,27820.0,4500
+Maguey Verde Salmiana,9,Laguna seca,1070.0,27820.0,4500
+Maguey Verde Salmiana,10,Laguna seca,532.0,13832.0,4500
+Maguey azul,10,Moctezuma,1073.0,27898.0,0
+Maguey azul,11,Moctezuma,1405.0,36530.0,4500
+Maguey Verde Striata,11,Venado,200.0,5000.0,0
+Maguey Verde Striata,12,Venado,1070.0,26750.0,4500
+Maguey Verde Striata,13,Venado,252.0,6300.0,4500
+Maguey Verde Striata,14,Venado,713.0,17825.0,4500
+Maguey Verde Striata,15,Venado,243.0,6075.0,4500
+Cuijo cantabriginesis,15,Moctezuma,556.0,9452.0,0
+Cuijo cantabriginesis,16,Moctezuma,713.0,12121.0,4500
+Cuijo cantabriginesis,17,Moctezuma,1070.0,18190.0,4500
+Cuijo cantabriginesis,18,Moctezuma,590.0,10030.0,4500
+Cuijo engelmani,18,Venado,480.0,8640.0,0
+Cuijo engelmani,19,Venado,1004.0,18072.0,4500
+Cuijo engelmani,20,Venado,768.0,13824.0,4500
+Tapón,20,Moctezuma,302.0,5134.0,0
+Tapón,21,Moctezuma,574.0,9758.0,4500
+Tapón,22,Moctezuma,573.0,9741.0,4500
+Tapón,23,Moctezuma,831.0,14127.0,4500
+Tapón,24,Moctezuma,742.0,12614.0,4500
+Tapón,25,Moctezuma,1045.0,17765.0,4500
+Tapón,26,Moctezuma,287.0,4879.0,4500
+Cardón,26,Venado,1318.0,23724.0,0
+Cardón,27,Venado,1070.0,19260.0,4500
+Cardón,28,Venado,1443.0,25974.0,4500
+Mezquite,28,Vivero,162.0,4293.0,0
+Mezquite,29,Vivero,7.0,185.5,4500
+Mezquite,30,Vivero,1070.0,28355.0,4500
+Mezquite,31,Vivero,1070.0,28355.0,4500
+Mezquite,32,Vivero,887.0,23505.5,4500
+Mezquite,33,Vivero,1058.0,28037.0,4500
+Mezquite,34,Vivero,928.0,24592.0,4500
+palma china,34,Vivero,142.0,3692.0,0
+palma china,35,Vivero,1433.0,37258.0,4500
